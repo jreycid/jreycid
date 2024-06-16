@@ -1,4 +1,4 @@
-<img align='right' margin=100px 10px 10px 10px src="https://github-readme-stats.vercel.app/api?username=jreycid&show_icons=true">
+<img float:right src="https://github-readme-stats.vercel.app/api?username=jreycid&show_icons=true">
 
 # Hi, I'm Jose :raising_hand:
 
