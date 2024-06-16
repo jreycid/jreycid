@@ -7,7 +7,7 @@
 
 - :computer: Software engineer
 - :earth_africa: Ourense - Galicia
-- :office: Civil servant in [Xunta de Galicia](https://educacioneciencia.xunta.gal/portada) working as vocational teacher
+- :office: Civil servant - Vocational teacher
 - :octocat: Huge fan of the fantasy genre
 
 ## About me
