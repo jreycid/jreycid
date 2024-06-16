@@ -7,7 +7,7 @@
 - :robot: Software engineer
 - :notebook_with_decorative_cover: Vocational Teacher
 - :earth_africa: I'm from Ourense - Galicia
-- :office: Working as a civil servant in [Xunta de Galicia - Consellería de Educación](https://educacioneciencia.xunta.gal/portada)
+- :office: Working as a civil servant in [Xunta de Galicia](https://educacioneciencia.xunta.gal/portada)
 - :octocat: Fun fact: I'm a huge fan of the fantasy genre
 
 ## About me
