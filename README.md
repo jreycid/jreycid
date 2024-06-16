@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jreycid&show_icons=true">
 
-## Hi, I'm Jose :raising_hand:
+### Hi, I'm Jose :raising_hand:
 
 [![Linkedin Badge](https://img.shields.io/badge/-jreycid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jreycid/)](https://www.linkedin.com/in/jreycid/)
 
