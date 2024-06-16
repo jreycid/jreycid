@@ -14,9 +14,6 @@
 	<img src=["w3html.gif](https://i.imgur.com/84Ee14z.jpeg)" alt="" width="100">
 </div>
 
-</body>
-</html>
-
 # Hi, I'm Jose :raising_hand:
 
 [![Linkedin Badge](https://img.shields.io/badge/-jreycid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jreycid/)](https://www.linkedin.com/in/jreycid/)
@@ -31,4 +28,6 @@
 
 ## About me
 
-![Porco Rosso](https://i.imgur.com/84Ee14z.jpeg)
+</body>
+</html>
+
