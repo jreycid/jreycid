@@ -1,4 +1,21 @@
-<img float:right src="https://github-readme-stats.vercel.app/api?username=jreycid&show_icons=true">
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .imgPos {
+      position: absolute;
+      top: 100px;
+      right: 16px;
+    }
+  </style>
+</head>
+<body>
+<div class="imgPos">
+	<img src=["w3html.gif](https://i.imgur.com/84Ee14z.jpeg)" alt="" width="100">
+</div>
+
+</body>
+</html>
 
 # Hi, I'm Jose :raising_hand:
 
