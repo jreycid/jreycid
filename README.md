@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="imgPos">
-	<img src="https://i.imgur.com/84Ee14z.jpeg" alt="" width="100">
+	<img src="https://i.imgur.com/84Ee14z.jpeg" alt="">
 </div>
 
 # Hi, I'm Jose :raising_hand:
