@@ -5,8 +5,8 @@
 
 :white_heart: Chess | :blue_heart: Reading | :green_heart: Nature
 
-- :computer: Software engineer
 - :earth_africa: Ourense - Galicia
+- :computer: Software engineer
 - :office: Civil servant - Vocational teacher
 - :octocat: Huge fan of the fantasy genre
   
